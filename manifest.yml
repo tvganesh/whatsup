@@ -1,0 +1,11 @@
+
+applications:
+- host: whatsup
+  disk: 512M
+  name: whatsup
+  command: node app.js
+  path: .
+  domain: stage1.mybluemix.net
+  mem: 128M
+  instances: 1
+   

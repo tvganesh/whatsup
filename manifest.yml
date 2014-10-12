@@ -5,7 +5,7 @@ applications:
   name: whatsup
   command: node app.js
   path: .
-  domain: stage1.mybluemix.net
+  domain: mybluemix.net
   mem: 128M
   instances: 1
    
